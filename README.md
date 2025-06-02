@@ -1,6 +1,6 @@
 # 🚀 Fine-Tuning Gemma 2B with LoRA on Google Colab
 
-This project demonstrates how to fine-tune the open-source **Gemma 2B** model using **LoRA (Low-Rank Adaptation)** in **Google Colab**, with a dataset downloaded from **Kaggle**.
+This project demonstrates how to fine-tune the open-source **Gemma3 1B** model using **LoRA (Low-Rank Adaptation)** in **Google Colab**, with a dataset downloaded from **Kaggle**.
 
 > No Google Cloud or Vertex AI needed — this is a simple and reproducible approach for beginners using just Colab and a local Kaggle dataset!
 
@@ -12,7 +12,7 @@ In this hands-on tutorial, we:
 - Use **Kaggle API** to download the **Gemma 3** dataset (a `.json` text dataset)
 - Set up Kaggle authentication in Google Colab
 - Apply basic preprocessing and tokenization
-- Fine-tune **Gemma 2B** using **LoRA** for memory-efficient training
+- Fine-tune **Gemma 1B** using **LoRA** for memory-efficient training
 - Evaluate the model with example prompts
 
 ---
